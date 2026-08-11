@@ -48,4 +48,6 @@ libro.exe
 Luego sigue las instrucciones en pantalla para ingresar los datos de los 5 libros.
 
 ## Capturas de pantalla del programa en ejecución
-*(Agregar aquí las capturas de pantalla al ejecutar el programa)*
+![entrada de datos](libros1.PNG)
+![entrada de datos](libro2.PNG)
+![resultados](libros3.PNG)
